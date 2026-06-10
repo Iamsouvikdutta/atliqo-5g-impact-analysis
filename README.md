@@ -225,7 +225,7 @@ Business Analyst with experience in leveraging SQL, Power BI, and data-driven in
 
 🔗 LinkedIn: *(https://www.linkedin.com/in/iamsouvikdutta/)*
 
-💻 GitHub: *(Add your GitHub profile URL here)*
+💻 GitHub: *(https://github.com/Iamsouvikdutta)*
 
 ---
 
