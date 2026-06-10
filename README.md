@@ -223,7 +223,7 @@ The objective was not only to visualize data but also to translate business perf
 
 Business Analyst with experience in leveraging SQL, Power BI, and data-driven insights to solve business problems and support strategic decision-making.
 
-🔗 LinkedIn: *(Add your LinkedIn profile URL here)*
+🔗 LinkedIn: *(https://www.linkedin.com/in/iamsouvikdutta/)*
 
 💻 GitHub: *(Add your GitHub profile URL here)*
 
