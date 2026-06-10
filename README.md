@@ -146,19 +146,19 @@ Based on the analysis, the following recommendations were identified:
 ## 📷 Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Dashboard%20Screenshots/01_Executive_Overview.png)
+![Executive Overview](Dashboard Screenshots/01_Executive_Overview.png)
 
 ### Growth Drivers
-![Growth Drivers](Dashboard%20Screenshots/02_Growth_Drivers.png)
+![Growth Drivers](Dashboard Screenshots/02_Growth_Drivers.png)
 
 ### Risks & Opportunities
-![Risks & Opportunities](Dashboard%20Screenshots/03_Risks_Opportunities.png)
+![Risks & Opportunities](Dashboard Screenshots/03_Risks_Opportunities.png)
 
 ### Deep Dive Analysis
-![Deep Dive Analysis](Dashboard%20Screenshots/04_Deep_Dive_Analysis.png)
+![Deep Dive Analysis](Dashboard Screenshots/04_Deep_Dive_Analysis.png)
 
 ### Strategic Recommendations
-![Strategic Recommendations](Dashboard%20Screenshots/05_Recommendations.png)
+![Strategic Recommendations](Dashboard Screenshots/05_Recommendations.png)
 
 ---
 
